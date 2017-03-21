@@ -1,5 +1,5 @@
 for img in "$@"
 do
 filename=${img%.*}OPT
-	/path/to/your/guetzli_binary "$img" "$filename.jpg"
+	/usr/local/Cellar/guetzli/1.0/bin/guetzli "$img" "$filename.jpg"
 done

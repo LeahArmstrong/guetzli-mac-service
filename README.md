@@ -9,6 +9,9 @@ This is a very easy, simple script that can be heavily modified and has many use
 
 Since it is such simple/generic code, it may already exist out there somewhere in a similar form. 
 
+**Usage:**
+To use, download this repository and in the release folder, when opened on Mac, the .workflow file will be available, double-click to install and/or open with Automator for further editing. When it installs this way, it installs by default to /Users/*username*/Library/Services
+
 **License:** None / Open / Do-whatever-you-want-with-it
 
 **Disclaimer:** The user assumes all responsibility for use of these files

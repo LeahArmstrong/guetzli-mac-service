@@ -1,4 +1,4 @@
 # guetzli-mac-service
 Bash shell script-turned-Mac-service for batch processing using Guetzli
 
-To use the script, the **/path/to/your/guetzli_binary** portion needs edited to reference the path of your guetzli binary
+The script and service assume that Guetzli was installed with `brew install guetzli` which by default installs it into the path `/usr/local/Cellar/guetzli/1.0/bin/guetzli`. If you unarchived into another location, substitute that location in the script/service instead.

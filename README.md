@@ -10,4 +10,5 @@ This is a very easy, simple script that can be heavily modified and has many use
 Since it is such simple/generic code, it may already exist out there somewhere in a similar form. 
 
 **License:** None / Open / Do-whatever-you-want-with-it
+
 **Disclaimer:** The user assumes all responsibility for use of these files
